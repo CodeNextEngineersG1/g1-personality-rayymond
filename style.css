@@ -6,3 +6,30 @@ html {
 }
 
 /* Place your styles below */
+
+header ,main { 
+	text-align: center; 
+ }
+
+ #try-again{
+ 	margin-top: 10px
+ 	margin-right: auto;
+ 	margin-bottom: 10px;
+ 	margin-left: auto;
+ 	height: 50px;
+ 	width: 200px;
+ 	background-color: blue;
+	display: inline;
+
+ }
+#submit{
+ 	margin-top: 10px
+ 	margin-right: auto;
+ 	margin-bottom: 10px;
+ 	margin-left: auto;
+ 	height: 50px;
+ 	width: 200px;
+ 	background-color: blue;
+	display: inline;
+
+ }
